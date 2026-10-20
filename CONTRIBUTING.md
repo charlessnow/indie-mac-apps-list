@@ -19,9 +19,9 @@ To submit an app for consideration on the website, use the [Indie Mac Apps submi
 - Do not copy another list, review, screenshot or proprietary description.
 - Inclusion is an editorial choice, not a guarantee of quality, safety or future availability. No reciprocal link or GitHub star is required.
 
-## Documentation only
+## Documentation and images only
 
-This repository accepts Markdown resource documents only. Do not submit source code, scripts, GitHub Actions, package files, application configuration, installers, archives, datasets or generated website files. Code embedded in a Markdown file is also outside scope.
+This repository accepts Markdown resource documents and explicitly reviewed PNG images of app icons or the public website only. Image files must be decoded, sanitized and checked before publication. Static Markdown display markup for links and images is welcome; executable code is not. Do not submit source code, scripts, GitHub Actions, package files, application configuration, installers, archives, datasets or generated website files. Code embedded in a Markdown file is also outside scope.
 
 Do not post credentials, private correspondence, personal submission information or internal development material in issues, pull requests or attachments. All discussion here is public.
 

@@ -1,4 +1,4 @@
-# This repository publishes only the explicitly reviewed documents below.
+# This repository publishes only the explicitly reviewed documents and PNG images below.
 # New files are ignored by default. Review contents before changing this list.
 /*
 !/.gitignore
@@ -11,3 +11,30 @@
 /.github/ISSUE_TEMPLATE/*
 !/.github/ISSUE_TEMPLATE/app-suggestion.md
 !/.github/ISSUE_TEMPLATE/correction.md
+
+!/assets/
+/assets/*
+!/assets/brand.png
+!/assets/website-preview.png
+!/assets/icons/
+/assets/icons/*
+!/assets/icons/acorn.png
+!/assets/icons/alfred.png
+!/assets/icons/audio-hijack.png
+!/assets/icons/bear.png
+!/assets/icons/coteditor.png
+!/assets/icons/craft.png
+!/assets/icons/keyboard-maestro.png
+!/assets/icons/little-snitch.png
+!/assets/icons/maccy.png
+!/assets/icons/netnewswire.png
+!/assets/icons/noteplan.png
+!/assets/icons/nova.png
+!/assets/icons/rectangle.png
+!/assets/icons/screen-studio.png
+!/assets/icons/shottr.png
+!/assets/icons/soulver.png
+!/assets/icons/tableplus.png
+!/assets/icons/things-3.png
+!/assets/icons/tower.png
+!/assets/icons/transmit.png
