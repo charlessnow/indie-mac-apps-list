@@ -1,0 +1,13 @@
+# This repository publishes only the explicitly reviewed documents below.
+# New files are ignored by default. Review contents before changing this list.
+/*
+!/.gitignore
+!/README.md
+!/CONTRIBUTING.md
+!/.github/
+/.github/*
+!/.github/PULL_REQUEST_TEMPLATE.md
+!/.github/ISSUE_TEMPLATE/
+/.github/ISSUE_TEMPLATE/*
+!/.github/ISSUE_TEMPLATE/app-suggestion.md
+!/.github/ISSUE_TEMPLATE/correction.md
