@@ -5,7 +5,7 @@
 <h1 align="center">Indie Mac Apps List</h1>
 
 <p align="center">
-<strong>Thoughtful Mac software, made by independent developers.</strong><br>
+<strong>Discover thoughtful software for your Mac.</strong><br>
 20 selected apps. Six categories. A useful place to start.
 </p>
 
